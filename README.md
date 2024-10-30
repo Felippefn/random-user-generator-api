@@ -1,6 +1,7 @@
 # 🌟 Random User Generator API
 
-![Alt Text](your_image_url_here) <!-- Replace with your project image URL if you have one -->
+![image](https://github.com/user-attachments/assets/389e3642-d45a-44f7-a91a-0f6ff76f4455)
+ <!-- Replace with your project image URL if you have one -->
 
 Welcome to the **Random User Generator API**! This API is designed to provide a random user profile generator for various applications. It generates random names, last names, emails, and countries, making it perfect for testing and development.
 
