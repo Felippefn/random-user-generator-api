@@ -3,7 +3,7 @@ const router = express.Router();
 const fs = require('fs');
 
 // Load data
-const data = JSON.parse(fs.readFileSync('random_names_v2.json', 'utf8'))[0];
+const data = JSON.parse(fs.readFileSync('/data/random_names_v2.json', 'utf8'))[0];
 
 // Helper function to pick a random item from an array
 const getRandomElement = (arr) => arr[Math.floor(Math.random() * arr.length)];
